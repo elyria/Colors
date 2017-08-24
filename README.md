@@ -3,9 +3,11 @@ A Document listing the mostly used colors. The color group by primary, color's n
 
 ### Named
 
-Use your group or company domin as the prefix, such as : `elyria_color_gray_a50` 、`elyria_color_ripple_clicked` ...
+Use your group or company domin as the prefix, such as : `elyria_color_gray_a50` 、`elyria_color_ripple_clicked` 
 
-**The color name + alpha or red value :**
+The following name space:
+
+**The color name with alpha or red value:**
 
 |     prefix     | color  | alpha/red |
 | :------------: | :----: | :-------: |
