@@ -49,7 +49,7 @@ Pull requests will be treated as "review requests", and we will give feedback we
 
 ### About us
 
-You can scan the QR code join us or connect [jungletian](tjsummery@gmail.com) .
+You can scan the QR code join us or contact [jungletian](tjsummery@gmail.com) for feedback.
 
 <img src="http://oivu0dj80.bkt.clouddn.com/QQGroup.png" width="300">
 
